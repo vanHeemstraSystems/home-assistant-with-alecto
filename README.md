@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+home-assistant-with-alecto
+# Home Assistant with Alecto
 
-Based on "ABC" at https://www.abc.com/
+Based on "Alecto" at https://alectohome.nl
 
 ## 100 - Introduction
 
